@@ -1,2 +1,3 @@
 # project
- testing
+Start up:
+Believing in yourself 
